@@ -80,16 +80,22 @@ Primitive Progress is a Minecraft mod that overhauls the early- to mid-game craf
 
         Timing and temperature affect quality, purity and outcome. Recipes can fail if neglected or mistimed.
 
+        Revamp potion system (poor quality, mid quality, high quality) 
+
+        New potion effects (Petrification, Frogification, Stumbling, Paralysis, etc.)
+
     Multiblock Windmills & Watermills
 
         Fully functional wind- and water-powered systems to drive crafting stations.
 
-    Immersive Replacement
+    Other
 
         Replace brewing stands in villages with holy idols. Make Villager Clerics actually religious.
+
+        New (optional) death system. Player's turn into a spirit when they die. Respawn at effigies or statues.
 
         Add religion? 
 
 🧪 Development Status
 
-This mod is in development (maybe?). Expect frequent updates, new features, and balance tweaks. Suggestions and feedback are welcome.
+This mod is (maybe?) in development. Expect frequent updates. Suggestions and feedback are welcome.
