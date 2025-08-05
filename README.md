@@ -53,4 +53,4 @@ Primitive Progress is a Minecraft mod that overhauls the early- to mid-game craf
 
 🧪 Development Status
 
-This mod is actively in development. Expect frequent updates, new features, and balance tweaks. Suggestions and feedback are welcome.
+This mod is in development (maybe?). Expect frequent updates, new features, and balance tweaks. Suggestions and feedback are welcome.
