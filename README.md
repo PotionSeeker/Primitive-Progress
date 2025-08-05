@@ -29,10 +29,10 @@ Primitive Progress is a Minecraft mod that overhauls the early- to mid-game craf
         Players must first interact with the pottery wheel gui to choose what item they want to craft from a list of possible recipes.
         To start crafting, the pottery wheel must be kept spinning while players add clay lumps onto the wheel until the crafting is finished. 
         If the spinning stops, the craft fails.
-        The advanced pottery wheel allows for more complex recipes and is easier to keep spinning.
 <img width="201" height="154" alt="basic_pottery_wheel_screenshot_1" src="https://github.com/user-attachments/assets/7c2f2be3-5cf9-4158-afae-be1874d8226b" />
 <img width="248" height="267" alt="basic_pottery_wheel" src="https://github.com/user-attachments/assets/98ee973b-454f-485a-9a2a-4a889519a24b" />
 
+       The advanced pottery wheel allows for more complex recipes and is easier to keep spinning.
 <img width="197" height="207" alt="advanced_pottery_wheel_screenshot" src="https://github.com/user-attachments/assets/08af2029-7a7b-4fbd-b4a4-acfed59e1aeb" />
 <img width="248" height="267" alt="advanced_pottery_wheel" src="https://github.com/user-attachments/assets/dda6001a-7cf3-41a8-8945-49ae4317ca88" />
 
