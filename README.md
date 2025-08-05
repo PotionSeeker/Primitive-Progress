@@ -5,7 +5,7 @@ Primitive Progress is a Minecraft mod that overhauls the early- to mid-game craf
 # 🔧 Features
 
 ## Cooking Pot
-<img width="450" height="275" alt="primitive_pot_screenshot_1" src="https://github.com/user-attachments/assets/5e86e60a-e494-4058-84b6-eb0a8d595bc0" />
+<img width="648" height="396" alt="primitive_pot_screenshot_1" src="https://github.com/user-attachments/assets/5e86e60a-e494-4058-84b6-eb0a8d595bc0" />
 <img width="272" height="275" alt="primitive_pot_screenshot" src="https://github.com/user-attachments/assets/7f86c38a-a0f9-4a32-8d8a-3b5b1bdf450c" />
 
         The cooking pot is used to cook different kinds of foods with the risk of making failed or burnt dishes if one isn't careful. 
@@ -35,6 +35,16 @@ Primitive Progress is a Minecraft mod that overhauls the early- to mid-game craf
         They can be used to spawn villagers or allow for player respawns as a replacement for beds.
 <img width="117" height="278" alt="clay_effigy" src="https://github.com/user-attachments/assets/c707a267-58d0-4c26-88a4-f20a60e41882" />
 <img width="131" height="278" alt="clay_villager_effigy" src="https://github.com/user-attachments/assets/334e7f75-4508-401b-a536-1da7a9e62ca8" />
+
+
+## Spinning Wheel
+<img width="842" height="457" alt="spinning_wheel_scene" src="https://github.com/user-attachments/assets/ea71901e-ba58-423d-9d40-67b432d04a9e" />
+        
+        The spinning wheel is a crafting station that allows for the creation of different clothes and fibers. 
+        Sheep no longer give wool blocks and will instead give fleece when sheared. Fleece then needs to be spun into wool.
+        Other materials, such as hemp, flax or plant fibers can also be given recipes on the spinning wheel. 
+<img width="213" height="260" alt="spinning_wheel_screenshot" src="https://github.com/user-attachments/assets/4476ada8-17f1-4f28-adea-84f9d6928110" />
+<img width="248" height="280" alt="spinning_wheel" src="https://github.com/user-attachments/assets/8bee55ba-98ec-4a49-b5a6-8779143c3a79" />
 
 
 # ❗ Compatibility & Requirements
