@@ -2,7 +2,7 @@
 
 Primitive Progress is a Minecraft mod that overhauls the early- to mid-game crafting experience by introducing a wide range of interactive, survival-oriented workstations. Instead of relying on instant crafting grids or high-tech automation, there is an emphasizes on manual effort and engagement in more immersive survival progression.
 
-# 🔧 Features
+# Features
 
 ## Cooking Pot and Stove
 <img width="648" height="396" alt="primitive_pot_screenshot_1" src="https://github.com/user-attachments/assets/5e86e60a-e494-4058-84b6-eb0a8d595bc0" />
@@ -96,6 +96,21 @@ Primitive Progress is a Minecraft mod that overhauls the early- to mid-game craf
 
         Add religion? 
 
-🧪 Development Status
 
-This mod is (maybe?) in development. Expect frequent updates. Suggestions and feedback are welcome.
+# ✨ Inspiration
+
+    The Witcher 3 - Alchemy (https://witcher.fandom.com/wiki/The_Witcher_3:_Wild_Hunt_-_Guide_to_Alchemy)
+
+    Potion Craft (https://www.potioncraft.com/)
+
+    Geomastery (https://geomastery.miraheze.org/wiki/Main_Page)
+
+    Better Than Wolves (https://modrinth.com/mod/better-than-wolves-legacy-unofficial) / Better With Time (https://www.curseforge.com/minecraft/mc-mods/better-with-time)
+
+    Schools of Magic: Second Semester (https://www.curseforge.com/minecraft/mc-mods/schools-of-magic-second-semester)
+
+    Others
+
+# Development Status
+
+       This mod is (maybe?) in development. Expect frequent updates, changes, renaming, ect. Suggestions and feedback are welcome.
