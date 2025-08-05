@@ -11,6 +11,10 @@ Primitive Progress is a Minecraft mod that overhauls the early- to mid-game craf
         The cooking pot is used to cook different kinds of foods with the risk of making failed or burnt dishes if one isn't too careful. 
         All recipes are shapeless and players can either throw the ingredients into the pot or open it by interacting with it.
 
+        *Skins used for github display only
+        Link Skin by Nanocon - https://www.planetminecraft.com/skin/s-3723900/
+        Senshi Skin by LocalToybot - https://www.planetminecraft.com/skin/dungeon-meshi-senshi/
+
 ❗ Compatibility & Requirements
 
     Minecraft 1.20.1+ (more versions may be supported later).
