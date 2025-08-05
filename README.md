@@ -1,4 +1,4 @@
-# Primitive Progress
+# Primitive Progress (Real name t.b.a)
 
 Primitive Progress is a Minecraft mod that overhauls the early- to mid-game crafting experience by introducing a wide range of interactive, survival-oriented workstations. Instead of relying on instant crafting grids or high-tech automation, there is an emphasizes on manual effort and engagement in more immersive survival progression.
 
