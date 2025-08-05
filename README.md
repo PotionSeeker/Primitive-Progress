@@ -64,9 +64,11 @@ Primitive Progress is a Minecraft mod that overhauls the early- to mid-game craf
 
         Quern Stone & Millstone – Manually grind wheat or ore by rotating the stone.
 
+        Stone Carving & Sculpting - Use a hammer and chisel to craft blocks and statues.
+
         Mortar & Pestle – Crush herbs, minerals, and food ingredients.
 
-        Wood Carving Bench – Carve logs and planks into handles, tools, and decor.
+        Wood Carving – Carve logs and planks into handles, tools, and decor.
 
         Glass Blowing Station - Heat sand and shape it into glass for windows or bottles.
 
