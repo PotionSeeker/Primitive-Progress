@@ -4,11 +4,12 @@ Primitive Progress is a Minecraft mod that overhauls the early- to mid-game craf
 🔧 Features
 
     Cooking Pot:
-        <img width="450" height="275" alt="primitive_pot_screenshot_1" src="https://github.com/user-attachments/assets/5e86e60a-e494-4058-84b6-eb0a8d595bc0" />
+<img width="450" height="275" alt="primitive_pot_screenshot_1" src="https://github.com/user-attachments/assets/5e86e60a-e494-4058-84b6-eb0a8d595bc0" />
     
-        <img width="327" height="330" alt="primitive_pot_screenshot" src="https://github.com/user-attachments/assets/7f86c38a-a0f9-4a32-8d8a-3b5b1bdf450c" />
+<img width="327" height="330" alt="primitive_pot_screenshot" src="https://github.com/user-attachments/assets/7f86c38a-a0f9-4a32-8d8a-3b5b1bdf450c" />
 
-        The cooking pot is used to cook different kinds of foods with the risk of making failed or burnt dishes if one isn't too careful. All recipes are shapeless and players can either throw the ingredients into the pot or open it by interacting with it.
+        The cooking pot is used to cook different kinds of foods with the risk of making failed or burnt dishes if one isn't too careful. 
+        All recipes are shapeless and players can either throw the ingredients into the pot or open it by interacting with it.
 
 ❗ Compatibility & Requirements
 
