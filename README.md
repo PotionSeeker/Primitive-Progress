@@ -1,20 +1,25 @@
 # Primitive Progress
 
-Primitive Progress is a Minecraft mod that overhauls the early- to mid-game crafting experience by introducing a wide range of interactive, survival-oriented workstations with a more primitive feel. Instead of relying on instant crafting grids or high-tech automation, this mod emphasizes manual effort, timing, and engagement in more immersive survival progression.
+Primitive Progress is a Minecraft mod that overhauls the early- to mid-game crafting experience by introducing a wide range of interactive, survival-oriented workstations. Instead of relying on instant crafting grids or high-tech automation, there is an emphasizes on manual effort and engagement in more immersive survival progression.
 
 # 🔧 Features
 
-## Cooking Pot
+## Cooking Pot and Stove
 <img width="648" height="396" alt="primitive_pot_screenshot_1" src="https://github.com/user-attachments/assets/5e86e60a-e494-4058-84b6-eb0a8d595bc0" />
 <img width="272" height="275" alt="primitive_pot_screenshot" src="https://github.com/user-attachments/assets/7f86c38a-a0f9-4a32-8d8a-3b5b1bdf450c" />
 
-        The cooking pot is used to cook different kinds of foods with the risk of making failed or burnt dishes if one isn't careful. 
-        All recipes are shapeless and players can either throw the ingredients into the pot or open it by interacting with it.
+        *Skins used for display:
+        Link by Nanocon - https://www.planetminecraft.com/skin/s-3723900/
+        Senshi by LocalToybot - https://www.planetminecraft.com/skin/dungeon-meshi-senshi/
 
-        *Skins used for github display only
-        Link Skin by Nanocon - https://www.planetminecraft.com/skin/s-3723900/
-        Senshi Skin by LocalToybot - https://www.planetminecraft.com/skin/dungeon-meshi-senshi/
- 
+        The cooking pot is used to prepare different kinds of dishes with the risk of making dubious food or burnt food if one isn't careful. 
+        All recipes are shapeless and players can either throw the ingredients into the pot or open it's gui by interacting with it.
+
+<img width="204" height="288" alt="fueled_stove" src="https://github.com/user-attachments/assets/820ddf2d-f508-4941-a77a-2af14243ca65" />
+<img width="204" height="288" alt="fueled_stove_pot" src="https://github.com/user-attachments/assets/40e3716d-e08d-44d2-8406-6985c4d1513d" />
+
+        To actually use the cooking pot, it needs to be placed on a campfire or other heat source block such as the stove.
+        The stove is a heat source block that needs fuel to stay burning and is activated by using a flint and steel.
 
 ## Pottery Wheel
 <img width="397" height="441" alt="clay_effigy_craft" src="https://github.com/user-attachments/assets/bebc7bc8-0e9a-4d44-88b8-bfc37bb6d2ff" />
@@ -41,8 +46,8 @@ Primitive Progress is a Minecraft mod that overhauls the early- to mid-game craf
 <img width="842" height="457" alt="spinning_wheel_scene" src="https://github.com/user-attachments/assets/ea71901e-ba58-423d-9d40-67b432d04a9e" />
         
         The spinning wheel is a crafting station that allows for the creation of different clothes and fibers. 
-        Sheep no longer give wool blocks and will instead give fleece when sheared. Fleece then needs to be spun into wool.
-        Other materials, such as hemp, flax or plant fibers can also be given recipes on the spinning wheel. 
+        Sheep no longer give wool blocks when sheared and will instead give raw wool or fleece. Fleece then needs to be spun into wool.
+        Other materials, such as hemp, flax or plant fibers can also be given spinning wheel recipes. 
 <img width="213" height="260" alt="spinning_wheel_screenshot" src="https://github.com/user-attachments/assets/4476ada8-17f1-4f28-adea-84f9d6928110" />
 <img width="248" height="280" alt="spinning_wheel" src="https://github.com/user-attachments/assets/8bee55ba-98ec-4a49-b5a6-8779143c3a79" />
 
@@ -57,15 +62,13 @@ Primitive Progress is a Minecraft mod that overhauls the early- to mid-game craf
 
     Crafting Stations
 
-        Quern Stone – Manually grind wheat or ore by rotating the stone.
+        Quern Stone & Millstone – Manually grind wheat or ore by rotating the stone.
 
         Mortar & Pestle – Crush herbs, minerals, and food ingredients.
 
-        Spinning Wheel – Convert raw fiber into thread through a timing-based interaction.
-
         Wood Carving Bench – Carve logs and planks into handles, tools, and decor.
 
-        Pottery Wheel – Shape clay into functional or decorative pottery, requiring steady input and control.
+        Glass Blowing Station - Heat sand and shape it into glass for windows or bottles.
 
     Cooking & Alchemy Stations
 
@@ -73,15 +76,17 @@ Primitive Progress is a Minecraft mod that overhauls the early- to mid-game craf
 
         Prepare ingredients, control temperature, and manage time to avoid burnt or ruined food.
 
-        Campfire grills, clay ovens, and other hands-on cooking stations.
-
         Timing and temperature affect quality, purity and outcome. Recipes can fail if neglected or mistimed.
 
     Multiblock Windmills & Watermills
 
         Fully functional wind- and water-powered systems to drive crafting stations.
 
-        Simple physics-based systems for automation without needing modern machinery.
+    Immersive Replacement
+
+        Replace brewing stands in villages with holy idols. Make Villager Clerics actually religious.
+
+        Add religion? 
 
 🧪 Development Status
 
