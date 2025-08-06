@@ -52,6 +52,42 @@ Primitive Progress is a Minecraft mod that overhauls the early- to mid-game craf
 <img width="248" height="280" alt="spinning_wheel" src="https://github.com/user-attachments/assets/8bee55ba-98ec-4a49-b5a6-8779143c3a79" />
 
 
+## Quern stone
+<img width="622" height="367" alt="quern_stone_scene" src="https://github.com/user-attachments/assets/ef35afbc-c292-4dca-8107-ebedd6a8b097" />
+
+        The quern stone is a stone tool that is used for hand grinding different types of materials into powder or paste.
+        The quern is used by first adding material by right clicking; the added material is displayed in the opening.
+
+<img width="206" height="184" alt="quern_stone_display" src="https://github.com/user-attachments/assets/4962d38a-0eb1-4059-b77f-22cdcbccc2c2" />
+<img width="237" height="244" alt="quern_stone" src="https://github.com/user-attachments/assets/64871cfd-79e8-47c3-8fb3-1a28f809afa0" />
+
+        With an empty hand, holding right click on the quern will allow players to turn the upper stone by moving their mouse in a circle.
+        Ground material is automatically deposited and extra material can be retrieved by shift right clicking.
+
+## Mill stone
+<img width="479" height="590" alt="millstone_scene" src="https://github.com/user-attachments/assets/9fdb52a1-1369-4c83-b864-df3a628f5820" />
+
+        The mill stone is a large stone tool that is used for automatically grinding or milling different types of materials into powder or paste.
+        The mill stone is comprised of a stationary base known as the bedstone and rotating upperhalf known as the runner stone.
+<img width="278" height="176" alt="millstone_bedstone" src="https://github.com/user-attachments/assets/6726b510-e841-4743-8021-68aeb6dfa5ce" />
+<img width="248" height="176" alt="millstone_turnstone" src="https://github.com/user-attachments/assets/69b87e69-c84b-4859-bfa7-9689c69aa0b1" />
+
+        When enough rotational force is applied to the mill stone, via either a water wheel or wind sail, the mill stone will begin rotating.
+        The raw material must be supplied through the opening in the runner stone and the result will be deposited around the basestone.
+<img width="370" height="302" alt="millstone_full" src="https://github.com/user-attachments/assets/21d0115b-5da4-4cdd-a87d-888f57f186d8" />
+<img width="396" height="325" alt="millstone_turn" src="https://github.com/user-attachments/assets/5e0d94ef-702a-44e8-873b-0750c9f7444c" />
+
+## Water wheel
+<img width="290" height="293" alt="water_wheel_01" src="https://github.com/user-attachments/assets/64fa686e-8a48-444e-993a-5206c438dee0" />
+
+        The water wheel is a machine that converts the kinetic energy of flowing or falling water into rotational force. 
+        To set up a water wheel, players must first place a shaft and connect it to a gearbox and attach the water wheel to the shaft.
+<img width="296" height="359" alt="water_wheel_02" src="https://github.com/user-attachments/assets/109c11a1-d70c-450b-bc95-cf9e47cfe791" />
+<img width="330" height="396" alt="water_wheel" src="https://github.com/user-attachments/assets/c66050ca-4f5c-4ade-a7d1-c883fd0cc0ec" />
+        
+        When one side of the water wheel is touching flowing water, it will begin to rotate, providing rotational force to the connected shaft and gearbox.
+
+
 # ❗ Compatibility & Requirements
 
     Minecraft 1.20.1+ (more versions may be supported later).
