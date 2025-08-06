@@ -61,31 +61,41 @@ Primitive Progress is a Minecraft mod that overhauls the early- to mid-game craf
 <img width="206" height="184" alt="quern_stone_display" src="https://github.com/user-attachments/assets/4962d38a-0eb1-4059-b77f-22cdcbccc2c2" />
 <img width="237" height="244" alt="quern_stone" src="https://github.com/user-attachments/assets/64871cfd-79e8-47c3-8fb3-1a28f809afa0" />
 
-        With an empty hand, holding right click on the quern will allow players to turn the upper stone by moving their mouse in a circle.
-        Ground material is automatically deposited and extra material can be retrieved by shift right clicking.
+        With an empty hand, holding right click on the quern will allow players to rotate the upper stone by moving their cursor in a circle.
+        The ground up material is automatically deposited and extra material can be retrieved by shift right clicking.
 
 ## Mill stone
 <img width="479" height="590" alt="millstone_scene" src="https://github.com/user-attachments/assets/9fdb52a1-1369-4c83-b864-df3a628f5820" />
 
         The mill stone is a large stone tool that is used for automatically grinding or milling different types of materials into powder or paste.
-        The mill stone is comprised of a stationary base known as the bedstone and rotating upperhalf known as the runner stone.
+        The mill stone is comprised of a stationary base called the bedstone and rotating top called the runner stone.
 <img width="278" height="176" alt="millstone_bedstone" src="https://github.com/user-attachments/assets/6726b510-e841-4743-8021-68aeb6dfa5ce" />
 <img width="248" height="176" alt="millstone_turnstone" src="https://github.com/user-attachments/assets/69b87e69-c84b-4859-bfa7-9689c69aa0b1" />
 
-        When enough rotational force is applied to the mill stone, via either a water wheel or wind sail, the mill stone will begin rotating.
-        The raw material must be supplied through the opening in the runner stone and the result will be deposited around the basestone.
+        When enough rotational force is applied to the mill stone's shaft, via either a water wheel or wind rotor, the mill stone will begin rotating.
+        The raw material must be supplied through the opening at the top of the runner stone and the ground up material will be deposited around the bedstone.
 <img width="370" height="302" alt="millstone_full" src="https://github.com/user-attachments/assets/21d0115b-5da4-4cdd-a87d-888f57f186d8" />
 <img width="396" height="325" alt="millstone_turn" src="https://github.com/user-attachments/assets/5e0d94ef-702a-44e8-873b-0750c9f7444c" />
 
 ## Water wheel
 <img width="290" height="293" alt="water_wheel_01" src="https://github.com/user-attachments/assets/64fa686e-8a48-444e-993a-5206c438dee0" />
 
-        The water wheel is a machine that converts the kinetic energy of flowing or falling water into rotational force. 
-        To set up a water wheel, players must first place a shaft and connect it to a gearbox and attach the water wheel to the shaft.
+        The water wheel is the core component of a water mill; a structure that converts the kinetic energy of flowing water into rotational force. 
+        To set up a water wheel, players must first place a gearbox and connect a shaft to it, then the water wheel is attached to the shaft.
 <img width="296" height="359" alt="water_wheel_02" src="https://github.com/user-attachments/assets/109c11a1-d70c-450b-bc95-cf9e47cfe791" />
 <img width="330" height="396" alt="water_wheel" src="https://github.com/user-attachments/assets/c66050ca-4f5c-4ade-a7d1-c883fd0cc0ec" />
         
-        When one side of the water wheel is touching flowing water, it will begin to rotate, providing rotational force to the connected shaft and gearbox.
+        When one side of the water wheel is touching flowing water, it will begin to rotate, providing rotational force to the connected gearbox.
+
+## Wind rotor
+<img width="339" height="429" alt="windmill_2" src="https://github.com/user-attachments/assets/30dacbbd-3214-4719-a224-1485b3bc82bb" />
+
+        The wind rotor is the core component of a wind mill; a structure that converts the kinetic energy of wind into rotational force. 
+        To set up a wind rotor, players must first place a gearbox and connect a shaft to it, then four wind sails must be attached to the shaft.
+<img width="365" height="475" alt="windmill_1" src="https://github.com/user-attachments/assets/562ca3b0-3786-494d-ad9c-4d6b3bd8e233" />
+<img width="385" height="506" alt="windmill" src="https://github.com/user-attachments/assets/71e1130c-0e41-4b31-b3da-18526dda1012" />
+
+        When all four wind sails are exposed to open air, the wind rotor will begin to rotate, providing rotational force to the connected gearbox.
 
 
 # ❗ Compatibility & Requirements
