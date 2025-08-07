@@ -97,6 +97,17 @@ Primitive Progress is a Minecraft mod that overhauls the early- to mid-game craf
 
         When all four wind sails are exposed to open air, the wind rotor will begin to rotate, providing rotational force to the connected gearbox.
 
+## Totem of Undying
+       *Note: This is a potential mod compatibility feature with the mod 'Extraordinary Extra Totems'
+       (https://www.curseforge.com/minecraft/mc-mods/extraordinary-extra-totems)
+<img width="662" height="411" alt="totem_of_undying_scene" src="https://github.com/user-attachments/assets/444fd503-5f13-4cca-9ec2-f0ebf6e6b08f" />
+
+       The Totem of Undying is a magical and religious artifact that has a few different functions:
+       When held, the totem will function like normal and will save the player from death.
+       When placed, the totem becomes a workstation for cleric villagers and acts as a respawn point for players.
+<img width="170" height="233" alt="totem" src="https://github.com/user-attachments/assets/eb754197-c799-4cb2-adb2-3a63daf377f5" />
+<img width="191" height="235" alt="totem_of_undying_icon" src="https://github.com/user-attachments/assets/8db1681b-03fc-4a6a-91bd-f3c05fac7f73" />
+
 
 # ❗ Compatibility & Requirements
 
