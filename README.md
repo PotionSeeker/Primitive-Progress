@@ -1,6 +1,8 @@
-# Primitive Progress (Real name t.b.a)
 
-Primitive Progress is a Minecraft mod that overhauls the early- to mid-game crafting experience by introducing a wide range of interactive, survival-oriented workstations. Instead of relying on instant crafting grids or high-tech automation, there is an emphasizes on manual effort and engagement in more immersive survival progression.
+<img width="1159" height="103" alt="peasantry_progress" src="https://github.com/user-attachments/assets/c1da711c-a27b-43cc-b37d-bbe0cedd5213" />
+<img width="16" height="16" alt="blank" src="https://github.com/user-attachments/assets/0f59e8cb-e319-45a0-84be-9c5ab9844fb9" />
+
+Peasantry Progress is a Minecraft mod that overhauls the early- to mid-game crafting experience by introducing a wide range of interactive, low-tech workstations. Instead of relying on instant crafting grids or industrial automation, there is an emphasizes on manual effort and engagement in more immersive survival progression.
 
 # Features
 
