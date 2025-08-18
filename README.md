@@ -99,6 +99,20 @@ Peasantry Progress is a Minecraft mod that overhauls the early- to mid-game craf
 
         When all four wind sails are exposed to open air, the wind rotor will begin to rotate, providing rotational force to the connected gearbox.
 
+## Treadwheel
+<img width="299" height="339" alt="treadwheel_shot" src="https://github.com/user-attachments/assets/f989a471-4dc0-4104-bb28-cc75652f7b66" />
+<img width="323" height="364" alt="treadwheel_frame_shot" src="https://github.com/user-attachments/assets/3f078b8a-9d82-4b38-b03b-48b06962060f" />
+
+        The treadwheel is the core component of a vertical animal engine; a structure that converts the manual labor of an animal into rotational force.
+        To set up a treadwheel, players must first build a wooden frame by placing down a frame schematic and then placing down the correct wooden parts.
+        Once the wooden frame is built, the treadwheel can be added by right clicking the frame.
+
+<img width="334" height="509" alt="treadwheel_frame" src="https://github.com/user-attachments/assets/53ca9879-06ff-4796-b57d-9e8fae184ca6" />
+<img width="354" height="529" alt="treadwheel_frame" src="https://github.com/user-attachments/assets/8ae7cd71-7d09-4af0-b057-d19a7029e602" />
+
+       Players can enter the treadwheel by right clicking and operate it by walking forwards or backwards. 
+       A supported entity can be lead into the treadwheel which is then operated by using a Command Horn.
+
 ## Totem of Undying
        *Note: This is a potential mod compatibility feature with the mod 'Extraordinary Extra Totems'
        (https://www.curseforge.com/minecraft/mc-mods/extraordinary-extra-totems)
